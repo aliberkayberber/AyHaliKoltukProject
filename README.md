@@ -1,6 +1,6 @@
 # Denizli Ay Halı ve Koltuk Yıkama - Web Sitesi Projesi
 
-Bu proje, Denizli'de faaliyet gösteren **Ay Halı Koltuk Yıkama** firması için özel olarak kodlanmış; dönüşüm (müşteri araması) odaklı, mobil uyumlu (responsive) ve yerel SEO standartlarına göre optimize edilmiş kurumsal web sitesidir.
+Bu proje, Denizli'de faaliyet gösteren **Denizli Ay Halı Koltuk Yıkama** firması için özel olarak kodlanmış; dönüşüm (müşteri araması) odaklı, mobil uyumlu (responsive) ve yerel SEO standartlarına göre optimize edilmiş kurumsal web sitesidir.
 
 ## 🚀 Proje Özeti ve Kullanılan Teknolojiler
 
